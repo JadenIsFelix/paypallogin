@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "paypallogin",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "PayPal Login",
+      "database_id": "3c3ca953-fc5a-413c-9b02-f00de131b8bf"
+    }
+  ]
+}
